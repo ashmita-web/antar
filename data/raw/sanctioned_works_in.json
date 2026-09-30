@@ -1,0 +1,1514 @@
+[
+  {
+    "village_code": "IN-UP-VNS-0005",
+    "category": "road",
+    "amount": 778663,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0005",
+    "category": "health",
+    "amount": 2497632,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0005",
+    "category": "road",
+    "amount": 3260107,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0007",
+    "category": "road",
+    "amount": 3513828,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0010",
+    "category": "sanitation",
+    "amount": 1084351,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "health",
+    "amount": 4245186,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "water",
+    "amount": 4328360,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0014",
+    "category": "internet",
+    "amount": 4243454,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0025",
+    "category": "internet",
+    "amount": 2314739,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0025",
+    "category": "banking",
+    "amount": 3183413,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0032",
+    "category": "sanitation",
+    "amount": 147951,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0035",
+    "category": "electricity",
+    "amount": 4243129,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0035",
+    "category": "health",
+    "amount": 2866574,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0036",
+    "category": "transport",
+    "amount": 3693843,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0036",
+    "category": "sanitation",
+    "amount": 667499,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0036",
+    "category": "water",
+    "amount": 523161,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0037",
+    "category": "water",
+    "amount": 1608483,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0046",
+    "category": "electricity",
+    "amount": 4603690,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0046",
+    "category": "water",
+    "amount": 3848054,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0046",
+    "category": "road",
+    "amount": 3454327,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0049",
+    "category": "health",
+    "amount": 4008695,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0049",
+    "category": "sanitation",
+    "amount": 1978344,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0049",
+    "category": "health",
+    "amount": 3548901,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0050",
+    "category": "health",
+    "amount": 446901,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0051",
+    "category": "education",
+    "amount": 1090451,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0052",
+    "category": "health",
+    "amount": 4062538,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0052",
+    "category": "sanitation",
+    "amount": 2899320,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0052",
+    "category": "internet",
+    "amount": 406568,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0055",
+    "category": "transport",
+    "amount": 4466236,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0057",
+    "category": "education",
+    "amount": 944568,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0059",
+    "category": "electricity",
+    "amount": 1486261,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0059",
+    "category": "transport",
+    "amount": 1341366,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0059",
+    "category": "education",
+    "amount": 4799663,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0063",
+    "category": "education",
+    "amount": 2660287,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0064",
+    "category": "road",
+    "amount": 2498269,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0066",
+    "category": "education",
+    "amount": 4466280,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0066",
+    "category": "internet",
+    "amount": 1973843,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0066",
+    "category": "transport",
+    "amount": 2671374,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0068",
+    "category": "internet",
+    "amount": 2223517,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0071",
+    "category": "road",
+    "amount": 3832301,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0071",
+    "category": "banking",
+    "amount": 1179375,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0072",
+    "category": "sanitation",
+    "amount": 419855,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0075",
+    "category": "internet",
+    "amount": 3703224,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0077",
+    "category": "electricity",
+    "amount": 623187,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0080",
+    "category": "internet",
+    "amount": 2624918,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0082",
+    "category": "sanitation",
+    "amount": 492402,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0082",
+    "category": "health",
+    "amount": 3483604,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0083",
+    "category": "internet",
+    "amount": 2209238,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0089",
+    "category": "transport",
+    "amount": 1182734,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0090",
+    "category": "health",
+    "amount": 469077,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0090",
+    "category": "health",
+    "amount": 780550,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0093",
+    "category": "transport",
+    "amount": 127355,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0093",
+    "category": "water",
+    "amount": 641400,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0093",
+    "category": "road",
+    "amount": 4393961,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0095",
+    "category": "transport",
+    "amount": 3928883,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0095",
+    "category": "internet",
+    "amount": 3578943,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0095",
+    "category": "banking",
+    "amount": 3383910,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0099",
+    "category": "water",
+    "amount": 193322,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0099",
+    "category": "internet",
+    "amount": 4471250,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0099",
+    "category": "sanitation",
+    "amount": 972140,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0102",
+    "category": "transport",
+    "amount": 4371115,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0103",
+    "category": "banking",
+    "amount": 507987,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0104",
+    "category": "education",
+    "amount": 2783476,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0105",
+    "category": "education",
+    "amount": 2145367,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0107",
+    "category": "banking",
+    "amount": 1074583,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0115",
+    "category": "banking",
+    "amount": 1820052,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0115",
+    "category": "road",
+    "amount": 2531917,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0115",
+    "category": "internet",
+    "amount": 3842785,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0122",
+    "category": "water",
+    "amount": 981579,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0125",
+    "category": "banking",
+    "amount": 4318633,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0125",
+    "category": "road",
+    "amount": 3134595,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0130",
+    "category": "water",
+    "amount": 746297,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0132",
+    "category": "electricity",
+    "amount": 4316102,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0132",
+    "category": "road",
+    "amount": 873535,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0133",
+    "category": "transport",
+    "amount": 3650507,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0133",
+    "category": "road",
+    "amount": 3671636,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0133",
+    "category": "water",
+    "amount": 1763486,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0137",
+    "category": "transport",
+    "amount": 4929649,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0139",
+    "category": "road",
+    "amount": 4868872,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0139",
+    "category": "banking",
+    "amount": 2187893,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0140",
+    "category": "electricity",
+    "amount": 1372495,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0140",
+    "category": "sanitation",
+    "amount": 883533,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0140",
+    "category": "sanitation",
+    "amount": 3049457,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0141",
+    "category": "banking",
+    "amount": 3645968,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0141",
+    "category": "transport",
+    "amount": 4409409,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0141",
+    "category": "transport",
+    "amount": 652183,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0142",
+    "category": "sanitation",
+    "amount": 377322,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0142",
+    "category": "transport",
+    "amount": 331848,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0142",
+    "category": "electricity",
+    "amount": 1025535,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0144",
+    "category": "health",
+    "amount": 2527706,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0145",
+    "category": "banking",
+    "amount": 1710410,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0145",
+    "category": "road",
+    "amount": 102677,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0146",
+    "category": "health",
+    "amount": 693580,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0147",
+    "category": "water",
+    "amount": 2374496,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0147",
+    "category": "education",
+    "amount": 4363512,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0147",
+    "category": "health",
+    "amount": 3304186,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0149",
+    "category": "road",
+    "amount": 1232949,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0149",
+    "category": "health",
+    "amount": 3555511,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0154",
+    "category": "water",
+    "amount": 2689913,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0154",
+    "category": "road",
+    "amount": 895846,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0154",
+    "category": "electricity",
+    "amount": 3252278,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0156",
+    "category": "water",
+    "amount": 2433240,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0158",
+    "category": "education",
+    "amount": 797941,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0158",
+    "category": "education",
+    "amount": 4431707,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0160",
+    "category": "electricity",
+    "amount": 4038475,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0160",
+    "category": "sanitation",
+    "amount": 2797056,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0161",
+    "category": "health",
+    "amount": 2723941,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0161",
+    "category": "banking",
+    "amount": 4645879,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0161",
+    "category": "health",
+    "amount": 2440958,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0162",
+    "category": "sanitation",
+    "amount": 1553631,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0162",
+    "category": "road",
+    "amount": 1367508,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0164",
+    "category": "health",
+    "amount": 162767,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0167",
+    "category": "internet",
+    "amount": 2256035,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0170",
+    "category": "sanitation",
+    "amount": 3795786,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0172",
+    "category": "internet",
+    "amount": 412551,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0172",
+    "category": "education",
+    "amount": 2816640,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0172",
+    "category": "sanitation",
+    "amount": 2272449,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0173",
+    "category": "internet",
+    "amount": 4738258,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0173",
+    "category": "water",
+    "amount": 854396,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0180",
+    "category": "health",
+    "amount": 4528824,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0180",
+    "category": "water",
+    "amount": 4057864,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0180",
+    "category": "banking",
+    "amount": 3779731,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0183",
+    "category": "internet",
+    "amount": 2290232,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0184",
+    "category": "internet",
+    "amount": 1040028,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0185",
+    "category": "banking",
+    "amount": 4770178,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0186",
+    "category": "education",
+    "amount": 3910770,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0194",
+    "category": "water",
+    "amount": 4071817,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0194",
+    "category": "sanitation",
+    "amount": 3768159,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0194",
+    "category": "electricity",
+    "amount": 300597,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0195",
+    "category": "electricity",
+    "amount": 1847172,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0195",
+    "category": "transport",
+    "amount": 4108007,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0196",
+    "category": "health",
+    "amount": 3921723,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0196",
+    "category": "road",
+    "amount": 607525,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0196",
+    "category": "electricity",
+    "amount": 4164965,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0197",
+    "category": "road",
+    "amount": 2731285,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0197",
+    "category": "transport",
+    "amount": 1739894,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0197",
+    "category": "education",
+    "amount": 1086692,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0198",
+    "category": "water",
+    "amount": 264438,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0198",
+    "category": "health",
+    "amount": 293994,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0199",
+    "category": "education",
+    "amount": 4103869,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0200",
+    "category": "banking",
+    "amount": 2759304,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0201",
+    "category": "banking",
+    "amount": 2637903,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0203",
+    "category": "sanitation",
+    "amount": 4279132,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0203",
+    "category": "road",
+    "amount": 4118565,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0203",
+    "category": "sanitation",
+    "amount": 3891677,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0207",
+    "category": "water",
+    "amount": 1147217,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0207",
+    "category": "education",
+    "amount": 1399696,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0210",
+    "category": "water",
+    "amount": 4272820,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0210",
+    "category": "electricity",
+    "amount": 4364895,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0215",
+    "category": "sanitation",
+    "amount": 976060,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0215",
+    "category": "health",
+    "amount": 4441527,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0215",
+    "category": "road",
+    "amount": 514454,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0217",
+    "category": "internet",
+    "amount": 888848,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0220",
+    "category": "electricity",
+    "amount": 2348216,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0220",
+    "category": "electricity",
+    "amount": 941565,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0220",
+    "category": "water",
+    "amount": 3463317,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0222",
+    "category": "internet",
+    "amount": 4014265,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0222",
+    "category": "road",
+    "amount": 163870,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0223",
+    "category": "electricity",
+    "amount": 1920405,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0223",
+    "category": "education",
+    "amount": 381913,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0223",
+    "category": "electricity",
+    "amount": 717388,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0225",
+    "category": "road",
+    "amount": 2794476,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0226",
+    "category": "education",
+    "amount": 2631861,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0226",
+    "category": "water",
+    "amount": 1933689,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0229",
+    "category": "banking",
+    "amount": 2077360,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0229",
+    "category": "road",
+    "amount": 1888216,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0230",
+    "category": "water",
+    "amount": 1642084,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0230",
+    "category": "education",
+    "amount": 4412096,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0230",
+    "category": "water",
+    "amount": 983733,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0235",
+    "category": "health",
+    "amount": 4079409,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0235",
+    "category": "water",
+    "amount": 1221260,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0236",
+    "category": "education",
+    "amount": 375392,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0236",
+    "category": "sanitation",
+    "amount": 2443984,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0236",
+    "category": "internet",
+    "amount": 4815579,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0241",
+    "category": "education",
+    "amount": 2513538,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0243",
+    "category": "road",
+    "amount": 527647,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0245",
+    "category": "banking",
+    "amount": 3736832,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0245",
+    "category": "health",
+    "amount": 2238149,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0246",
+    "category": "road",
+    "amount": 4950128,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0246",
+    "category": "banking",
+    "amount": 2414278,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0246",
+    "category": "internet",
+    "amount": 3739690,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0248",
+    "category": "health",
+    "amount": 350073,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0248",
+    "category": "water",
+    "amount": 366361,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0255",
+    "category": "transport",
+    "amount": 3087009,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0255",
+    "category": "education",
+    "amount": 3296908,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0255",
+    "category": "health",
+    "amount": 2166202,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0260",
+    "category": "internet",
+    "amount": 3168051,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0260",
+    "category": "transport",
+    "amount": 4238184,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0260",
+    "category": "internet",
+    "amount": 839146,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0261",
+    "category": "electricity",
+    "amount": 255360,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0266",
+    "category": "water",
+    "amount": 4026266,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0266",
+    "category": "banking",
+    "amount": 3906973,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0266",
+    "category": "electricity",
+    "amount": 3717579,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0270",
+    "category": "education",
+    "amount": 2183000,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0270",
+    "category": "banking",
+    "amount": 3824680,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0271",
+    "category": "education",
+    "amount": 4516039,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0271",
+    "category": "sanitation",
+    "amount": 4374671,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0271",
+    "category": "water",
+    "amount": 3031556,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0272",
+    "category": "health",
+    "amount": 1376605,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0272",
+    "category": "internet",
+    "amount": 4876051,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0272",
+    "category": "sanitation",
+    "amount": 4039951,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0277",
+    "category": "sanitation",
+    "amount": 1505499,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0277",
+    "category": "banking",
+    "amount": 2092039,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0280",
+    "category": "electricity",
+    "amount": 1078304,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0280",
+    "category": "road",
+    "amount": 1088176,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0285",
+    "category": "health",
+    "amount": 4006566,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0288",
+    "category": "water",
+    "amount": 2440048,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0288",
+    "category": "electricity",
+    "amount": 2449489,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0289",
+    "category": "health",
+    "amount": 340121,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0289",
+    "category": "electricity",
+    "amount": 3910414,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0293",
+    "category": "road",
+    "amount": 1962452,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0293",
+    "category": "road",
+    "amount": 150633,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0297",
+    "category": "sanitation",
+    "amount": 3298321,
+    "status": "sanctioned",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0297",
+    "category": "education",
+    "amount": 604269,
+    "status": "completed",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0298",
+    "category": "banking",
+    "amount": 1956952,
+    "status": "in_progress",
+    "synthetic": true
+  },
+  {
+    "village_code": "IN-UP-VNS-0300",
+    "category": "internet",
+    "amount": 2206241,
+    "status": "in_progress",
+    "synthetic": true
+  }
+]

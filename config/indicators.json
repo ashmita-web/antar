@@ -1,0 +1,60 @@
+{
+  "categories": {
+    "road": {
+      "label": "Road Connectivity",
+      "deficit_columns": ["road_pucca_pct"],
+      "deficit_formula": "1 - road_pucca_pct / 100",
+      "icon": "route"
+    },
+    "water": {
+      "label": "Drinking Water",
+      "deficit_columns": ["tap_water_pct"],
+      "deficit_formula": "1 - tap_water_pct / 100",
+      "icon": "water_drop"
+    },
+    "sanitation": {
+      "label": "Sanitation",
+      "deficit_columns": ["toilet_pct"],
+      "deficit_formula": "1 - toilet_pct / 100",
+      "icon": "sanitizer"
+    },
+    "electricity": {
+      "label": "Electricity",
+      "deficit_columns": ["electricity_pct"],
+      "deficit_formula": "1 - electricity_pct / 100",
+      "icon": "bolt"
+    },
+    "health": {
+      "label": "Health Facility",
+      "deficit_columns": ["health_center_within_5km"],
+      "deficit_formula": "1 - health_center_within_5km",
+      "icon": "local_hospital"
+    },
+    "education": {
+      "label": "Education",
+      "deficit_columns": ["school_within_3km"],
+      "deficit_formula": "1 - school_within_3km",
+      "icon": "school"
+    },
+    "internet": {
+      "label": "Internet Access",
+      "deficit_columns": ["internet_pct"],
+      "deficit_formula": "1 - internet_pct / 100",
+      "icon": "wifi"
+    },
+    "banking": {
+      "label": "Banking Access",
+      "deficit_columns": ["bank_within_5km"],
+      "deficit_formula": "1 - bank_within_5km",
+      "icon": "account_balance"
+    },
+    "transport": {
+      "label": "Public Transport",
+      "deficit_columns": ["bus_stop_within_5km"],
+      "deficit_formula": "1 - bus_stop_within_5km",
+      "icon": "directions_bus"
+    }
+  },
+  "quadrant_threshold": 0.5,
+  "priority_formula": "deficit * (1 - coverage) * (0.7 + 0.3 * demand)"
+}

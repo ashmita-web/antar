@@ -1,0 +1,15 @@
+{
+  "country": "India",
+  "currency": "INR",
+  "currency_symbol": "₹",
+  "constituency_name": "Varanasi (Demo)",
+  "state": "Uttar Pradesh",
+  "districts": ["Varanasi"],
+  "blocks": [
+    "Arajiline", "Baragaon", "Chiraigaon", "Harahua",
+    "Kashi Vidyapeeth", "Pindra", "Sevapuri", "Cholapur"
+  ],
+  "default_budget": 50000000,
+  "budget_unit": 100000,
+  "budget_unit_label": "lakh"
+}

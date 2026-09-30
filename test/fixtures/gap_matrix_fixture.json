@@ -1,0 +1,407 @@
+[
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "road",
+    "demand": 0.1136,
+    "deficit": 0.181,
+    "coverage": 0.0,
+    "priority": 0.1329,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "water",
+    "demand": 0.0568,
+    "deficit": 0.076,
+    "coverage": 0.0,
+    "priority": 0.0545,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "sanitation",
+    "demand": 0.0568,
+    "deficit": 0.093,
+    "coverage": 0.0,
+    "priority": 0.0667,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "electricity",
+    "demand": 0.0568,
+    "deficit": 0.031,
+    "coverage": 0.0,
+    "priority": 0.0222,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "health",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "education",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "internet",
+    "demand": 0.1136,
+    "deficit": 0.174,
+    "coverage": 0.0,
+    "priority": 0.1277,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "banking",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0001",
+    "category": "transport",
+    "demand": 0.0568,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "road",
+    "demand": 0.0,
+    "deficit": 0.165,
+    "coverage": 0.0,
+    "priority": 0.1155,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "water",
+    "demand": 0.0,
+    "deficit": 0.123,
+    "coverage": 0.0,
+    "priority": 0.0861,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "sanitation",
+    "demand": 0.0,
+    "deficit": 0.072,
+    "coverage": 0.0,
+    "priority": 0.0504,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "electricity",
+    "demand": 0.0,
+    "deficit": 0.059,
+    "coverage": 0.0,
+    "priority": 0.0413,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "health",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "education",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "internet",
+    "demand": 0.3049,
+    "deficit": 0.202,
+    "coverage": 0.0,
+    "priority": 0.1599,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "banking",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0002",
+    "category": "transport",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "road",
+    "demand": 0.0,
+    "deficit": 0.306,
+    "coverage": 0.0,
+    "priority": 0.2142,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "water",
+    "demand": 0.0,
+    "deficit": 0.65,
+    "coverage": 0.0,
+    "priority": 0.455,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "sanitation",
+    "demand": 0.0,
+    "deficit": 0.719,
+    "coverage": 0.0,
+    "priority": 0.5033,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "electricity",
+    "demand": 0.0,
+    "deficit": 0.406,
+    "coverage": 0.0,
+    "priority": 0.2842,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "health",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "education",
+    "demand": 0.0,
+    "deficit": 1.0,
+    "coverage": 0.0,
+    "priority": 0.7,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "internet",
+    "demand": 0.0,
+    "deficit": 0.57,
+    "coverage": 0.0,
+    "priority": 0.399,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "banking",
+    "demand": 0.0,
+    "deficit": 1.0,
+    "coverage": 0.0,
+    "priority": 0.7,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0003",
+    "category": "transport",
+    "demand": 0.0,
+    "deficit": 1.0,
+    "coverage": 0.0,
+    "priority": 0.7,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "road",
+    "demand": 0.0,
+    "deficit": 0.541,
+    "coverage": 0.0,
+    "priority": 0.3787,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "water",
+    "demand": 0.0,
+    "deficit": 0.691,
+    "coverage": 1.0,
+    "priority": 0.0,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "sanitation",
+    "demand": 0.0,
+    "deficit": 0.523,
+    "coverage": 0.0,
+    "priority": 0.3661,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "electricity",
+    "demand": 0.0,
+    "deficit": 0.397,
+    "coverage": 0.0,
+    "priority": 0.2779,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "health",
+    "demand": 0.8298,
+    "deficit": 0.0,
+    "coverage": 1.0,
+    "priority": 0.0,
+    "quadrant": "phantom_demand"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "education",
+    "demand": 0.0,
+    "deficit": 1.0,
+    "coverage": 0.0,
+    "priority": 0.7,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "internet",
+    "demand": 0.0,
+    "deficit": 0.651,
+    "coverage": 0.0,
+    "priority": 0.4557,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "banking",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0011",
+    "category": "transport",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "road",
+    "demand": 0.0,
+    "deficit": 0.633,
+    "coverage": 0.0,
+    "priority": 0.4431,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "water",
+    "demand": 0.74,
+    "deficit": 0.6,
+    "coverage": 0.0,
+    "priority": 0.5532,
+    "quadrant": "true_hotspot"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "sanitation",
+    "demand": 0.74,
+    "deficit": 0.684,
+    "coverage": 0.0,
+    "priority": 0.6306,
+    "quadrant": "true_hotspot"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "electricity",
+    "demand": 0.74,
+    "deficit": 0.313,
+    "coverage": 0.0,
+    "priority": 0.2886,
+    "quadrant": "phantom_demand"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "health",
+    "demand": 0.0,
+    "deficit": 1.0,
+    "coverage": 0.0,
+    "priority": 0.7,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "education",
+    "demand": 0.0,
+    "deficit": 1.0,
+    "coverage": 0.0,
+    "priority": 0.7,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "internet",
+    "demand": 0.0,
+    "deficit": 0.813,
+    "coverage": 0.0,
+    "priority": 0.5691,
+    "quadrant": "silent_gap"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "banking",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  },
+  {
+    "village_code": "IN-UP-VNS-0028",
+    "category": "transport",
+    "demand": 0.0,
+    "deficit": 0.0,
+    "coverage": 0.0,
+    "priority": 0.0,
+    "quadrant": "stable"
+  }
+]

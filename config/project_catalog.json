@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "type": "pucca_road",
+      "category": "road",
+      "label": "Pucca Road Construction",
+      "unit": "km",
+      "indicative_unit_cost_inr": 2500000,
+      "indicative_unit_cost_brl": 150000,
+      "beneficiary_formula": "population * 0.8",
+      "note": "Indicative cost — verify with PWD schedule of rates"
+    },
+    {
+      "type": "tap_water_scheme",
+      "category": "water",
+      "label": "Piped Water Supply Scheme",
+      "unit": "household",
+      "indicative_unit_cost_inr": 3500,
+      "indicative_unit_cost_brl": 250,
+      "beneficiary_formula": "population * (1 - tap_water_pct/100)",
+      "note": "Indicative cost — verify with Jal Jeevan Mission norms"
+    },
+    {
+      "type": "community_toilet",
+      "category": "sanitation",
+      "label": "Community Sanitation Complex",
+      "unit": "unit",
+      "indicative_unit_cost_inr": 700000,
+      "indicative_unit_cost_brl": 45000,
+      "beneficiary_formula": "population * (1 - toilet_pct/100)",
+      "note": "Indicative cost — verify with SBM guidelines"
+    },
+    {
+      "type": "solar_electrification",
+      "category": "electricity",
+      "label": "Solar Street Lighting & Grid Extension",
+      "unit": "village",
+      "indicative_unit_cost_inr": 1500000,
+      "indicative_unit_cost_brl": 90000,
+      "beneficiary_formula": "population",
+      "note": "Indicative cost — verify with DDUGJY/SAUBHAGYA norms"
+    },
+    {
+      "type": "health_subcenter",
+      "category": "health",
+      "label": "Health Sub-Centre",
+      "unit": "unit",
+      "indicative_unit_cost_inr": 2000000,
+      "indicative_unit_cost_brl": 120000,
+      "beneficiary_formula": "population",
+      "note": "Indicative cost — verify with NHM norms"
+    },
+    {
+      "type": "primary_school",
+      "category": "education",
+      "label": "Primary School Building",
+      "unit": "unit",
+      "indicative_unit_cost_inr": 3000000,
+      "indicative_unit_cost_brl": 180000,
+      "beneficiary_formula": "population * 0.2",
+      "note": "Indicative cost — verify with SSA/Samagra Shiksha norms"
+    },
+    {
+      "type": "internet_tower",
+      "category": "internet",
+      "label": "Internet Connectivity Tower (BharatNet)",
+      "unit": "unit",
+      "indicative_unit_cost_inr": 1200000,
+      "indicative_unit_cost_brl": 75000,
+      "beneficiary_formula": "population * 0.6",
+      "note": "Indicative cost — verify with BharatNet/telecom norms"
+    },
+    {
+      "type": "banking_csp",
+      "category": "banking",
+      "label": "Banking CSP / ATM Kiosk",
+      "unit": "unit",
+      "indicative_unit_cost_inr": 500000,
+      "indicative_unit_cost_brl": 30000,
+      "beneficiary_formula": "population * 0.5",
+      "note": "Indicative cost — verify with financial inclusion scheme"
+    },
+    {
+      "type": "bus_shelter",
+      "category": "transport",
+      "label": "Bus Shelter & Route Extension",
+      "unit": "unit",
+      "indicative_unit_cost_inr": 800000,
+      "indicative_unit_cost_brl": 50000,
+      "beneficiary_formula": "population * 0.4",
+      "note": "Indicative cost — verify with state transport dept"
+    }
+  ]
+}

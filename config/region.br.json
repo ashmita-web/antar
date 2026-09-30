@@ -1,0 +1,15 @@
+{
+  "country": "Brazil",
+  "currency": "BRL",
+  "currency_symbol": "R$",
+  "constituency_name": "São Paulo Leste (Demo)",
+  "state": "São Paulo",
+  "districts": ["Zona Leste"],
+  "blocks": [
+    "Itaquera", "São Mateus", "Guaianases", "Cidade Tiradentes",
+    "Itaim Paulista", "São Miguel Paulista", "Ermelino Matarazzo", "Penha"
+  ],
+  "default_budget": 2500000,
+  "budget_unit": 1000,
+  "budget_unit_label": "mil"
+}

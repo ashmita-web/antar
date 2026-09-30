@@ -1,0 +1,40 @@
+{
+  "fund_hints": {
+    "road": {
+      "scheme": "PMGSY (Pradhan Mantri Gram Sadak Yojana)",
+      "note": "Possible source — verify eligibility"
+    },
+    "water": {
+      "scheme": "Jal Jeevan Mission",
+      "note": "Possible source — verify eligibility"
+    },
+    "sanitation": {
+      "scheme": "Swachh Bharat Mission (Gramin)",
+      "note": "Possible source — verify eligibility"
+    },
+    "electricity": {
+      "scheme": "DDUGJY / Saubhagya",
+      "note": "Possible source — verify eligibility"
+    },
+    "health": {
+      "scheme": "National Health Mission (NHM)",
+      "note": "Possible source — verify eligibility"
+    },
+    "education": {
+      "scheme": "Samagra Shiksha Abhiyan",
+      "note": "Possible source — verify eligibility"
+    },
+    "internet": {
+      "scheme": "BharatNet",
+      "note": "Possible source — verify eligibility"
+    },
+    "banking": {
+      "scheme": "PMJDY / Financial Inclusion",
+      "note": "Possible source — verify eligibility"
+    },
+    "transport": {
+      "scheme": "MPLADS / State Transport Fund",
+      "note": "Possible source — verify eligibility"
+    }
+  }
+}

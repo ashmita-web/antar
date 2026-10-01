@@ -7,6 +7,16 @@ ANTAR is an AI-powered multilingual platform that aggregates citizen development
 [![Demo Video](https://img.shields.io/badge/Demo_Video-Watch-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fA5JOmdmvQpxJPvYE9XSki9bhGm58L5e/view?usp=drive_link)
 [![Pitch Deck](https://img.shields.io/badge/Pitch_Deck-View-blue?style=for-the-badge&logo=googleslides)](https://drive.google.com/file/d/17rhc6oKYu70-KSYjWCdz7Ps53PkYuKYQ/view?usp=sharing)
 
+
+<img width="279" height="636" alt="Screenshot 2026-10-01 at 21 51 35" src="https://github.com/user-attachments/assets/92f07cc9-b4a7-4c8f-8030-2bfc9afbf786" />
+
+
+<img width="292" height="637" alt="Screenshot 2026-10-01 at 21 51 22" src="https://github.com/user-attachments/assets/f31677b6-a3b2-4810-a8b1-d089fbc875e9" />
+<img width="283" height="638" alt="Screenshot 2026-10-01 at 21 53 23" src="https://github.com/user-attachments/assets/189742a2-7803-4045-82a8-15ee3c0f36e5" />
+<img width="288" height="632" alt="Screenshot 2026-10-01 at 21 53 34" src="https://github.com/user-attachments/assets/ba7cce32-8c7f-4663-b7c9-ec4c738f9d49" />
+<img width="279" height="633" alt="Screenshot 2026-10-01 at 21 53 48" src="https://github.com/user-attachments/assets/4a072e1e-df23-4b26-8258-c45f2c39d1e3" />
+<img width="284" height="630" alt="Screenshot 2026-10-01 at 21 55 19" src="https://github.com/user-attachments/assets/4ab83dda-6851-4188-9e27-0e366c449936" />
+
 ---
 
 ## Features

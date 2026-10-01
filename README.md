@@ -5,7 +5,7 @@
 ANTAR is an AI-powered multilingual platform that aggregates citizen development requests via voice and text, and uses Google Gemini to surface demand hotspots and recommend high-priority projects to policymakers. Built as a **Digital Public Good** for [Build with AI: Code for Communities](https://hack2skill.com/event/codeforcommunities2/).
 
 [![Demo Video](https://img.shields.io/badge/Demo_Video-Watch-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fA5JOmdmvQpxJPvYE9XSki9bhGm58L5e/view?usp=drive_link)
-[![Pitch Deck](https://img.shields.io/badge/Pitch_Deck-View-blue?style=for-the-badge&logo=googleslides)](YOUR_PPT_LINK_HERE)
+[![Pitch Deck](https://img.shields.io/badge/Pitch_Deck-View-blue?style=for-the-badge&logo=googleslides)](https://drive.google.com/file/d/17rhc6oKYu70-KSYjWCdz7Ps53PkYuKYQ/view?usp=sharing)
 
 ---
 
